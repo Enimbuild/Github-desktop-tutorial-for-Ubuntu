@@ -12,5 +12,5 @@ sudo apt-get install gdebi-core
 #3. Terminal Command
 wget https://github.com/shiftkey/desktop/releases/download/release-2.9.3-linux3/GitHubDesktop-linux-2.9.3-linux3.deb && sudo dpkg -i GitHubDesktop-linux-2.9.3-linux3.deb
 
-#4.To open github desktop  Command
+#4.To open github desktop Command
 github
