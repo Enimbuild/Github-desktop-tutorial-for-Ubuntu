@@ -4,13 +4,13 @@ GitHub Desktop is an application that enables you to interact with GitHub using 
 
 This is how I installed the Github Desktop for Ubuntu 22.04LTS
 
-#1.Terminal Command 
+#1.Terminal Command: 
 sudo apt-get install gdebi-core
 
 #2.Provide Sudo password for user
 
-#3. Terminal Command
+#3. Terminal Command:
 wget https://github.com/shiftkey/desktop/releases/download/release-2.9.3-linux3/GitHubDesktop-linux-2.9.3-linux3.deb && sudo dpkg -i GitHubDesktop-linux-2.9.3-linux3.deb
 
-#4.To open github desktop Command
+#4.To open github desktop Command is:
 github
